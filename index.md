@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>riddle1</title>
+    <title>riddle2</title>
 </head>
 <body style="background-color:black;margin-left: 35%;margin-top:15% ;margin-right: 35%;">
     <h3 style="color: white;">Which four letter word<br> can be written forward,<br>backward or upside down,<br>and still can be<br> read from left to right?<br><br><i>Nb:Write your answers in uppercase.</i></h3>
